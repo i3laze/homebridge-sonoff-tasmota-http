@@ -5,6 +5,7 @@ This is a plugin for [homebridge](https://github.com/nfarina/homebridge) which m
 Unlike generic homebridge-sonoff-tasmota-http, this Homebridge plugin publishes Sonoff as a Switch class device and gives an ability not only to switch between states, but to trigger the switch into ON state for 1-10 seconds like a button.
 
 This project is a pre-stage for a HTTP-only plugin for a Garage Door Opener, presented in the article below.
+
 Inspired by http://www.instructables.com/id/Sonoff-Garage-Door-Opener/, Step 2:
 ![alt text](https://cdn.instructables.com/FFU/9DM4/J80GJC0H/FFU9DM4J80GJC0H.LARGE.jpg)
 
