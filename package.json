@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-sonoff-tasmota-http",
+  "name": "homebridge-sonoff-tasmota-http-switch",
   "version": "1.2.0",
-  "description": "Control Sonoff Basic devices with Tasmota >5.10.0b firmware through Homebridge",
+  "description": "Control modded Sonoff Basic devices with Tasmota firmware through Homebridge. Represented as a Switch in HomeKit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,10 +21,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ageorgios/homebridge-sonoff-tasmota-http.git"
+    "url": "git+https://github.com/i3laze/homebridge-sonoff-tasmota-http.git"
   },
   "bugs": {
-    "url": "https://github.com/ageorgios/homebridge-sonoff-tasmota-http.git/issues"
+    "url": "https://github.com/i3laze/homebridge-sonoff-tasmota-http.git/issues"
   },
-  "homepage": "https://github.com/ageorgios/homebridge-sonoff-tasmota-http.git#readme"
+  "homepage": "https://github.com/i3laze/homebridge-sonoff-tasmota-http.git#readme"
 }
