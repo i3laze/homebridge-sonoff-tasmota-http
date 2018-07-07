@@ -1,6 +1,6 @@
 # homebridge-sonoff-tasmota-http-switch
 
-This is a plugin for [Homebridge](https://github.com/nfarina/homebridge) which makes it possible to control modded Sonoff Basic devices with [Tasmota](https://github.com/arendst/Sonoff-Tasmota) firmware through HTTP only.
+This is a plugin for [Homebridge](https://github.com/nfarina/homebridge) which makes it possible to control *modded* Sonoff Basic devices with [Tasmota](https://github.com/arendst/Sonoff-Tasmota) firmware through HTTP only.
 
 Unlike generic [homebridge-sonoff-tasmota-http](https://github.com/ageorgios/homebridge-sonoff-tasmota-http), this plugin publishes Sonoff as a Switch class device and gives an ability not only to switch between states (which a parent plugin could easily do), but to trigger ON state (close the cirtcuit) for 0,1-10 seconds like a button.
 
