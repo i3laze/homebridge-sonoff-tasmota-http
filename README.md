@@ -2,7 +2,7 @@
 
 This is a plugin for [Homebridge](https://github.com/nfarina/homebridge) which makes it possible to control modded Sonoff Basic devices with [Tasmota](https://github.com/arendst/Sonoff-Tasmota) firmware through HTTP only.
 
-Unlike generic [homebridge-sonoff-tasmota-http](https://github.com/ageorgios/homebridge-sonoff-tasmota-http), this plugin publishes Sonoff as a Switch class device and gives an ability not only to switch between states (which a parent plugin could easily do), but to trigger ON state (close the cirtcuit) for 1-10 seconds like a button.
+Unlike generic [homebridge-sonoff-tasmota-http](https://github.com/ageorgios/homebridge-sonoff-tasmota-http), this plugin publishes Sonoff as a Switch class device and gives an ability not only to switch between states (which a parent plugin could easily do), but to trigger ON state (close the cirtcuit) for 0,1-10 seconds like a button.
 
 This project is a pre-stage for a HTTP-only plugin for a Sonoff-based Garage Door Opener, presented in this article:
 http://www.instructables.com/id/Sonoff-Garage-Door-Opener/
