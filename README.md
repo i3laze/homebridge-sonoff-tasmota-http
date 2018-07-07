@@ -7,7 +7,7 @@ http://www.instructables.com/id/Sonoff-Garage-Door-Opener/
 
 Unlike generic [homebridge-sonoff-tasmota-http](https://github.com/ageorgios/homebridge-sonoff-tasmota-http), this Homebridge plugin publishes Sonoff as a Switch class device and gives an ability not only to switch between states (which a parent plugin could easily do), but to trigger ON state for 1-10 seconds like a button.
 
-The hardware modification in [Step 2](http://www.instructables.com/id/Sonoff-Garage-Door-Opener/) transforms Sonoff's output pins into an isolated circiut, able to toggle any electric circuits with input pins, like garage control unit:
+The hardware modification in [Step 2](http://www.instructables.com/id/Sonoff-Garage-Door-Opener/) transforms Sonoff's output pins into an isolated circuit, able to toggle any electric circuits having input pins, like garage control unit:
 ![alt text](https://cdn.instructables.com/FC1/2N7E/J80GJBW5/FC12N7EJ80GJBW5.LARGE.jpg)
 
 
