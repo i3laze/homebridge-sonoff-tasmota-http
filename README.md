@@ -7,7 +7,7 @@ Unlike generic [homebridge-sonoff-tasmota-http](https://github.com/ageorgios/hom
 This project is a pre-stage for a HTTP-only plugin for a Sonoff-based Garage Door Opener, presented in this article:
 http://www.instructables.com/id/Sonoff-Garage-Door-Opener/
 
-The hardware modification in [Step 2](http://www.instructables.com/id/Sonoff-Garage-Door-Opener/) transforms Sonoff's output pins into an isolated circuit, able to toggle any electric circuits (with any voltage!), which have control pins, like garage-door control unit:
+Below is an OPTIONAL hardware modification [Step 2](http://www.instructables.com/id/Sonoff-Garage-Door-Opener/), which transforms Sonoff's output pins into an isolated circuit, able to toggle any electric circuits (with any voltage!), which have control pins, like garage-door control unit:
 ![alt text](https://cdn.instructables.com/FC1/2N7E/J80GJBW5/FC12N7EJ80GJBW5.LARGE.jpg)
 
 
