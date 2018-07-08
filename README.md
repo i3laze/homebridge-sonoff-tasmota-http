@@ -10,11 +10,11 @@ http://www.instructables.com/id/Sonoff-Garage-Door-Opener/
 Below is an *optional* hardware modification (more details in [Step 3](http://www.instructables.com/id/Sonoff-Garage-Door-Opener/)) that transforms Sonoff's output pins into an isolated circuit, able to toggle any electric circuits (running any voltage!), which have control pins, like garage-door control unit:
 ![alt text](https://cdn.instructables.com/FC1/2N7E/J80GJBW5/FC12N7EJ80GJBW5.LARGE.jpg) 
 
-*Maximum voltage is limited by Sonoff's SRD-05VDC-SL-C relay to 30V DC / 250V AC, max current is 20A.*
+*Maximum circuit voltage is limited by Sonoff's SRD-05VDC-SL-C relay to 30V DC / 250V AC, max current is 20A.*
 
 The Tasmota compatible version of the plugin is 5.11.0 and later
 
-If you need compatibility with previous Tasmota versions, fork this commit: https://github.com/ageorgios/homebridge-sonoff-tasmota-http/tree/6f73a32fd8ae01f16813f8f0bd3844d3da469e4d
+INFORMATION BELOW IS NOT ACTUAL OR EDITED YET.
 
 # Information
 ```
